@@ -1,0 +1,21 @@
+{
+  "name": "audio-transcription",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "chicken": "cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clear": "^0.1.0",
+    "dotenv": "^16.3.1",
+    "figlet": "^1.7.0",
+    "openai": "^4.19.1",
+    "yargs": "^17.7.2"
+  }
+}
